@@ -1,0 +1,66 @@
+[
+    {
+        "type": "danger",
+        "title": "A notification",
+        "description": "   Lorem ipsum dolor sit, amet consectetur adipisicing elit. Error nam itaque sunt sit numquam dicta minus aliquam? Nesciunt veniam placeat corrupti nisi fuga adipisci soluta, laudantium dolor earum id ab.",
+        "urlName": "",
+        "url": ""
+    },
+    {
+        "type": "warning",
+        "title": "B notification",
+        "description": "   Lorem ipsum dolor sit, amet consectetur adipisicing elit. Error nam itaque sunt sit numquam dicta minus aliquam? Nesciunt veniam placeat corrupti nisi fuga adipisci soluta, laudantium dolor earum id ab.",
+        "urlName": "google.com",
+        "url": "https://google.com"
+    },
+    {
+        "type": "info",
+        "title": "C notification",
+        "description": "   Lorem ipsum dolor sit, amet consectetur adipisicing elit. Error nam itaque sunt sit numquam dicta minus aliquam? Nesciunt veniam placeat corrupti nisi fuga adipisci soluta, laudantium dolor earum id ab.",
+        "urlName": "google.com",
+        "url": "https://google.com"
+    },
+    {
+        "type": "success",
+        "title": "D notification",
+        "description": "   Lorem ipsum dolor sit, amet consectetur adipisicing elit. Error nam itaque sunt sit numquam dicta minus aliquam? Nesciunt veniam placeat corrupti nisi fuga adipisci soluta, laudantium dolor earum id ab.",
+        "urlName": "",
+        "url": ""
+    },
+    {
+        "type": "success",
+        "title": "E notification",
+        "description": "   Lorem ipsum dolor sit, amet consectetur adipisicing elit. Error nam itaque sunt sit numquam dicta minus aliquam? Nesciunt veniam placeat corrupti nisi fuga adipisci soluta, laudantium dolor earum id ab.",
+        "urlName": "google.com",
+        "url": "https://google.com"
+    },
+    {
+        "type": "danger",
+        "title": "F notification",
+        "description": "   Lorem ipsum dolor sit, amet consectetur adipisicing elit. Error nam itaque sunt sit numquam dicta minus aliquam? Nesciunt veniam placeat corrupti nisi fuga adipisci soluta, laudantium dolor earum id ab.",
+        "urlName": "",
+        "url": ""
+    },
+    {
+        "type": "muted",
+        "title": "G notification",
+        "description": "   Lorem ipsum dolor sit, amet consectetur adipisicing elit. Error nam itaque sunt sit numquam dicta minus aliquam? Nesciunt veniam placeat corrupti nisi fuga adipisci soluta, laudantium dolor earum id ab.",
+        "urlName": "",
+        "url": ""
+    },
+    {
+        "type": "muted",
+        "title": "H notification",
+        "description": "   Lorem ipsum dolor sit, amet consectetur adipisicing elit. Error nam itaque sunt sit numquam dicta minus aliquam? Nesciunt veniam placeat corrupti nisi fuga adipisci soluta, laudantium dolor earum id ab.",
+        "urlName": "",
+        "url": ""
+    },
+    {
+        "type": "danger",
+        "title": "J notification",
+        "description": "   Lorem ipsum dolor sit, amet consectetur adipisicing elit. Error nam itaque sunt sit numquam dicta minus aliquam? Nesciunt veniam placeat corrupti nisi fuga adipisci soluta, laudantium dolor earum id ab.",
+        "urlName": "",
+        "url": ""
+    }
+    
+]

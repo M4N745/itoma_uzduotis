@@ -1,0 +1,11 @@
+.index {
+    background-color: rgba(0, 150, 0, 0.5);
+    height: 85vh;
+    width: 100%;
+    position: fixed;
+    top: 10vh;
+
+}
+.index > span {
+    text-transform: uppercase;
+}

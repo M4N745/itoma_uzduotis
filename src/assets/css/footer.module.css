@@ -1,0 +1,11 @@
+.footer {
+    background-color: rgba(0, 0, 255, .5);
+    height: 5vh;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+
+}
+.footer > span {
+    text-transform: uppercase;
+}

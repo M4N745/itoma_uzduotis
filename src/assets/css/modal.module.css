@@ -1,0 +1,64 @@
+.modal{
+    position: absolute;
+    top: 5vh;
+    right: 5vh;
+    width: max-content;
+    max-width: 20%;
+    height: 50%;
+    border:solid 2px black;
+    background: white;
+    z-index: 1;
+    border-radius: 10px;
+    display: none;
+    box-shadow: 0px 0px 10px 0px black;
+}
+.modal_body {
+    position: relative;
+    height: 100%;
+}
+.modal_body > header {
+    width: 100%;
+    height: 10%;
+    text-align: center;
+    display: inline;
+}
+.modal_body > header > div {
+    margin: auto;
+}
+
+.icon {
+    cursor: pointer;
+}
+.dropdown{
+    position: absolute;
+    background: white;
+    padding: 10px;
+    z-index: 1;
+    border: solid 1px black;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin-top: 5px;
+    margin-left: 20px;
+}
+.checkbox_div {
+    padding-left: 1rem;
+}
+.modal_body > main {
+    height: 80%;
+    border-top:solid 2px black;
+    border-right:solid 2px black;
+    padding: 1rem;
+    overflow-y: auto;
+}
+.modal_body > footer {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    border-top: solid 2px black;
+    padding-top: 1px;
+}
+
+.modal_body > footer > ul {
+    margin: auto;
+    width: max-content;
+}

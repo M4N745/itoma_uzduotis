@@ -1,0 +1,26 @@
+.alertBox {
+    position: fixed;
+    top: 5vh;
+    right: 5vh;
+    width: max-content;
+    z-index: 2;
+    color: black;
+    display: block;
+}
+.alertBox > header {
+    text-align: right;
+}
+.alertBox > footer {
+    text-align: center;
+}
+.icon {
+    width: 20px;
+    margin-right: 5px;
+    cursor: pointer;
+
+}
+
+.alertBox > footer > span {
+    font-size: 15px;
+    cursor: pointer;
+}

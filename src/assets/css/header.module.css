@@ -1,0 +1,10 @@
+.header {
+    background-color: rgba(255, 0, 0, .5);
+    height: 10vh;
+    width: 100%;
+    position: fixed;
+    top: 0;
+}
+.header > span {
+    text-transform: uppercase;
+}
