@@ -16,6 +16,6 @@
 1. React.js
 2. react-bootstrap package
 3. react-js-pagination
-4. `.json` failą vietoje, http request'o
+4. `.json` failą, vietoje http request'o
 
 Užtrukau: 7h 37min 22sec
