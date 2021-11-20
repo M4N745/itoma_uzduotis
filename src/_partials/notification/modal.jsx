@@ -70,8 +70,18 @@ export default class Modal extends React.Component{
             this.setState({activePage: this.state.activePage}, () => {
                 let max, start, arr = [];
                 if (this.state.activePage !== 1){
-                    max = this.state.activePage * 3;
-                    start = max - 3;
+                     start = this.state.activePage * 3 - 3;
+                     if(this.state.info[start+3] || this.state.sortedItems[start+3]){
+                        max = start + 3;
+                     }
+                     else{
+                        if(this.state.isSorted === true){
+                            max = this.state.sortedItems.length;
+                        }
+                        else{
+                            max = this.state.info.length;
+                        }
+                     }
                 }
                 else {
                     max = 3;
